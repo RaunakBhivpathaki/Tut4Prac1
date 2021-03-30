@@ -2,7 +2,8 @@
 title: "Tut4Prac1"
 author: "Raunak Bhivpathaki"
 date: "`r Sys.Date()`"
-output: html_document
+output: bookdown::html_document2
+keep_md: true
 ---
 
 ```{r setup, include=FALSE}
